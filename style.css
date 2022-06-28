@@ -9,14 +9,14 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #3e3d46;
+    background: #f71dae;
     transition: 0.5s;
 }
 .navigation{
     position: relative;
     width: 70px;
     height: 350px;
-    background: #434750;
+    background: #fff;
     border-radius: 35px;
     box-shadow: 0 15px 25px rgba(0,0,0,0.1);
 }
